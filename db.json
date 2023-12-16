@@ -1,0 +1,19 @@
+{
+  "test_type": [
+    {
+      "id": 1,
+      "name": "reactjs",
+      "date": "2023-12-27"
+    }
+  ],
+  "test_mast": [
+    {
+      "id": 1,
+      "testtypeid": "1",
+      "testname": "react component",
+      "email": "soumyanayak.raju@gmail.com",
+      "mobno": "8077349649",
+      "alternativeno": "7849029408"
+    }
+  ]
+}
